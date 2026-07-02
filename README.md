@@ -50,13 +50,13 @@ La IA no ve objetos como los vemos nosotros. Cada imagen de la webcam se descomp
 
 En las pruebas realizadas con la webcam en vivo, el modelo clasificó correctamente y con alta confianza cada uno de los cuatro objetos: Botella (100%), Celular (99%), Mouse (100%) y Cuaderno (100%).
 
-![Predicción Botella] (capturas/botella.jpeg)
+![Predicción Botella] 
 
-![Predicción Celular] (capturas/celular.jpeg)
+![Predicción Celular] 
 
-![Predicción Mouse] (capturas/mouse.jpeg)
+![Predicción Mouse]
 
-![Predicción Cuaderno] (capturas/cuaderno.jpeg)
+![Predicción Cuaderno] 
 
 Esto indica que, para condiciones similares a las del dataset de entrenamiento (mismo fondo, iluminación parecida, forma similar de sostener el objeto), el modelo generaliza bien y distingue claramente las cuatro clases entre sí.
 
